@@ -74,3 +74,12 @@ Este projeto é uma representação de uma landing page para um petshop.
 **Link do projeto:** <i>[clique aqui](https://www.figma.com/file/HFeLT8s0lWcGM6xjI7KIpN/Atividade05?type=design&node-id=0%3A1&mode=design&t=Za3saiJtuX4YWBNN-1) 
 
 <hr>
+
+### Fresh Salad 🥗
+Aqui temos uma landing page que representa uma loja de salada.
+<br><br>
+<img src="https://i.imgur.com/n8qb2ZF.png" width="600px" />
+
+**Link do projeto:** <i>[clique aqui](https://www.figma.com/file/1OFqGdlUq0i4NkANoVc2rX/Aula01-Jaja?type=design&node-id=0%3A1&mode=design&t=BU0T85Mew1dHTY29-1) 
+
+<hr>
